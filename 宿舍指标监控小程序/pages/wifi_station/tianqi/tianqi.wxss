@@ -1,0 +1,23 @@
+.canvas{
+  width: 100%;
+  height: 400rpx
+}
+
+#chart1{
+  top: 0rpx;
+  color: black
+}
+
+#chart2{
+  top: 10rpx
+}
+
+#chart3{
+  top: 20rpx
+}
+.pic{
+   width: 100%;
+    height: 100%;
+    background: url('http://a1.qpic.cn/psc?/V12f6Gvc2GwghC/AQcIL30w4PRNLA8O7NR*vKr6mO1ucrcBRq9iQj61jEO1nUtYfVmUYCLY9f9KaBcAWyQRpXghWQuM9POdqFDeE5LW*EaRMiS09lSaBOI6fKY!/c&ek=1&kp=1&pt=0&bo=9AGSAvQBkgIRFyA!&tl=1&vuin=1902517599&tm=1576839600&sce=60-2-2&rf=0-0') no-repeat;
+    background-size: 100% 100%;
+}

@@ -1,0 +1,6 @@
+<!--start.wxml-->
+<view class="tu">
+
+<view class="letters">你了解宿舍的环境指标吗？</view>
+<button  bindtap="tap" class="button">点击查看</button>
+</view>

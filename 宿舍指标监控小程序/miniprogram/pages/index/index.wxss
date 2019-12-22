@@ -1,0 +1,13 @@
+page{
+  background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577440917&di=0ee07a24a3f5c550aa3c5294dabfcd2c&imgtype=jpg&er=1&src=http%3A%2F%2Fi0.wp.com%2Fhiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F5243fbf2b2119313d80f383f6e380cd790238df5.jpg');
+}
+
+.button{
+  border: solid white 2px;
+  background: pink;
+  margin-top: 30px
+}
+.letters{
+   margin-left: 70px;
+   margin-bottom: 3px
+}
